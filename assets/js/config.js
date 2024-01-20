@@ -9,7 +9,7 @@ const BADGES = [
   },
   {
     name: "Server boosting Oct 6, 2023",
-    image: "assets/badges/boost2month.svg",
+    image: "assets/badges/boost3month.svg",
   },
 ];
 
